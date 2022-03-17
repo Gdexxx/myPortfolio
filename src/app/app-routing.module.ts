@@ -30,8 +30,7 @@ const routes: Routes = [
   },
   {
     path:'testimonials', component: TestimonialsComponent
-  },
-  {
+  },{
     path:'contact', component: ContactComponent
   }
 ];
