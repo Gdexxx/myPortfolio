@@ -14,7 +14,7 @@ const routes: Routes = [
     path:'', component: HomeComponent
   },
   {
-    path:'#welcome', component: WelcomeComponent
+    path:'welcome', component: WelcomeComponent
   },
   {
     path:'about', component: AboutComponent
